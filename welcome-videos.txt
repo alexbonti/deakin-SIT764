@@ -1,0 +1,116 @@
+Welcome to SIT782
+
+I'm Leonard, your lead educator for this unit. 
+
+I come from the start-up space and am currently a technical product manager with the Applied Artificial Intelligence Institute (also known as A square I square), where we translate fundamental research into commercial solutions, and I am a lecturer with the School of IT.
+
+This unit has been redesigned in collaboration with: the PMs and Devs at A square I square, the academics from the School of IT, and various practitioners in the industry that I've met or worked with. 
+
+This capstone is designed to scaffold the pragmatic application of everything you have learnt in the context of multi disciplinary client projects, and your transition from study to practice.
+
+SIT782 is the second of two project based capstone units, the first being SIT764. We strongly recommend completing SIT764 first, as we are building on the foundations developed in SIT764.
+
+Capstone units are different from other units you have undertaken. We elaborate on these differences in the week 1 articles, but here are some of the defining features of SIT782:
+
+1) It is delivery focused, meaning that you are expected to consistently produce deliverables throughout the trimester
+
+2) We are using a 100% portfolio assessment. This grade is formed from your weekly deliverables.
+
+2) The grading rubric has been redesigned around communicating a clear message to employers, based on my previous experience as a hiring manager in tech
+
+3) 2 courses are prescribed, but the content is not chronological. This means that content in Weeks 1 to 4 are there to support you in the entirety of course 1.
+
+4) I've interviewed practitioners to get you advice direct form the source around: 
+	i) debunking the myths around a role and discipline
+	ii) how the role or discipline contributes to projects
+	iii) what you should be aware of for your career progression
+
+Let's talk about Course 1. In Course 1, the content will cover the following:
+1) Unit administration, including how it works, how you can pass and so on.
+2) Agile, Scrum and Lean Project Management. You have been exposed to this in SIT764. Let's go deeper.
+3) Problem and solution definition. This helps assess if you are solving the right problem.
+4) Organisation and Implementation for Delivery. This will get you started on delivering Increments at the end of each Sprint.
+
+By the end of Course 1, you would have:
+
+1) a clear target grade and a roadmap for how you can achieve it
+
+2) the tools to construct and refine a project scope, inclusive of:
+	a) lifecycle model assessment and selection
+	b) refinement for the problem definition
+	c) performing due dilligence
+	d) identifying value proposition
+	e) project implementation and organisation to plan and execute
+ 
+Let's roll up our sleeves and get going! You have a few things due this week, namely:
+1) Your Individual Retrospective (Every Week!)
+2) Your SWOT analysis
+3) Your project preference
+
+===============================================================================
+
+Welcome to "Week" 2 of Content for SIT782!
+
+This "Week" of content will reiterate project management methodologies. By the end of this week of content: 
+1) you will understand how to 
+1) you will have an understanding of how to approach implementation of different projects by way of lifecycle models, 
+2) you will be delivering spikes around the tools that you'll be using, 
+3) you will how the Scrum framework will produce deliverables called Increments for your project. 
+
+This week's deliverables are:
+1) Your Individual Retrospective
+2) Your Tooling Spikes
+
+You also should receive your team allocation and access to your Team Worklog this week!
+
+===============================================================================
+
+Welcome to "Week" 3 of Content for SIT782!
+
+This "Week" marks the Start of Sprint 1 in your team. In Sprint 1, you will onboard yourselves to the project, assign your roles and responsibilities, and produce your first iteration of the Scope document using the template provided for the client and your supervisor to review. This is important as it ensures that everyone aligned in the vision of the project. 
+
+The articles this week will cover walk you though ensuring that the right problem has been identified, and the ways you can validate your solution direction. 
+
+What's on the menu for this week's deliverables? They are:
+1) Your Individual Retrospective
+2) Your Team Worklog (Weekly!)
+3) Iteration 1 of your Scope
+4) Any Spikes you have had to do in support of Scope iteration 1
+5) Meeting Minutes
+
+
+===============================================================================
+
+Welcome to "Week" 4 of Content for SIT782! How are you going, by the way?
+
+Week 4 encapsulates the end of Sprint 1. The Increment expected is the revised, or second iteration of your Scope document with the feedback from your client and supervisor, in addition to the Product Backlog that you will be drawing from for Sprint 2's Sprint Backlog. Don't forget to run your Sprint Retrospective, that needs to be submitted in OnTrack!
+
+The articles this week will support your efforts to produce your deliverables for Sprint 1, which scaffolds your planning for Sprint 2. 
+
+Your deliverable Increments for End of Sprint 1! Your deliverables are:
+1) Your Individual Retrospective
+2) Your Team Worklog
+3) Iteration 2 of your Scope
+4) Any Spikes you have had to do in support of Scope iteration 2
+5) Your Product Backlog
+6) Your Sprint Retrospective
+5) Meeting Minutes
+
+
+===============================================================================
+
+Alright, alright, alright. You’ve made it to the wrap up video for Course 1. You and your team should have a good understanding of the project you will be delivering. How did your Sprint go? All those interviews I teased in the first video are coming up soon in Course 2. In the subsequent Sprints, we will dive deeper into Implementation and Validation for your Increments from discipline specific perspectives.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
